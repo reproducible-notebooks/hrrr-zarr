@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - fsspec
+  - geoviews
+  - hvplot
+  - metpy
+  - numpy
+  - xarray
