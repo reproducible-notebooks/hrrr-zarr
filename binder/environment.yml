@@ -3,7 +3,6 @@ channels:
 dependencies:
   - cartopy
   - fsspec
-  - geoviews
   - pyviz/label/dev::hvplot
   - pyviz/label/dev::holoviews
   - pyviz/label/dev::geoviews
