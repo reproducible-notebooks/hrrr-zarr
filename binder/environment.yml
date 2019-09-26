@@ -5,8 +5,11 @@ dependencies:
   - fsspec
   - pyviz/label/dev::hvplot
   - pyviz/label/dev::holoviews
-  - pyviz/label/dev::geoviews
+  - pyviz/label/dev::panel
   - pyviz/label/dev::datashader
   - metpy
   - numpy
   - xarray
+  - pip
+  - pip:
+    - git+https://github.com/pyviz/geoviews.git
