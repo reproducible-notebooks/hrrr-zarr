@@ -4,7 +4,10 @@ dependencies:
   - cartopy
   - fsspec
   - geoviews
-  - hvplot
+  - pyviz/label/dev::hvplot
+  - pyviz/label/dev::holoviews
+  - pyviz/label/dev::geoviews
+  - pyviz/label/dev::datashader
   - metpy
   - numpy
   - xarray
